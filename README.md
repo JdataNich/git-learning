@@ -1,2 +1,3 @@
 # git-learning
-Sandbox for practice of git techniques 
+Sandbox for practice of git techniques
+some edits 
