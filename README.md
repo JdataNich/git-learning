@@ -7,6 +7,7 @@ in
 the
 read
 middle line changed
+adding new line on a new branch 
 for 
 some
 reason
