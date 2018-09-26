@@ -6,7 +6,7 @@ lines
 in
 the
 read
-me
+middle line changed
 for 
 some
 reason
